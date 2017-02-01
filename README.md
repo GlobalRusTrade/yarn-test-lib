@@ -1,1 +1,2 @@
-RELEASE-B
+RELEASE-B public
+
